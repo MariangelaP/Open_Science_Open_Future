@@ -3,7 +3,7 @@ An educational resource for young scientists, to embrace and practice Open Scien
 
 ## Vision statement
 
-Open science is vital for _reproducible, fair, and rigorous research_. For its principles to thrive, we need OS practices to be shared and adopted by as many scientists as possible, from the earliest stages of their career. 
+Open science is vital for _reproducible, fair, and rigorous_ research. For its principles to thrive, we need OS practices to be shared and adopted by as many scientists as possible, from the earliest stages of their career. 
 **"Open Science, Open Future" (OSOF)*+ aims to be an educational resource to be used online by young scientists.
 
 The project aims at adressing two issues:
