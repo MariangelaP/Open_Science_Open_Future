@@ -11,7 +11,7 @@ The project aims at adressing two issues:
 - reaching out, through online resources, to students and researchers in small or isolated institutions who often have only few opportunities to be trained on the OS principles.
 
 ![[Illustrations from the Turing Way book dashes - Zenodo](https://zenodo.org/record/3695300#.Yl20yigzZPY)](images/open_way.PNG)
-illustration from the Turing Way book dashes
+Illustration from the Turing Way book dashes
 
 ## is OSOF for you?
 
