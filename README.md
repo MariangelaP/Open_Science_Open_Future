@@ -14,7 +14,7 @@ The project has a range of objectives:
 A portfolio of subject-specific workshops is available on this platform. First time users are invited to contact OSOF to schedule an online interactive workshop session with the OSOF organizers. This way, we aim to train the next generation of OS ambassadors and empower them to freely use the available material and share it within their communities.
  
 
-![[Illustrations from the Turing Way book dashes - Zenodo](https://zenodo.org/record/3695300#.Yl20yigzZPY)](images/open_way.PNG)
+![Illustrations from the Turing Way book dashes - Zenodo](images/open_way.PNG)
 Illustration from the Turing Way book dashes
 
 ## Is OSOF for you?
@@ -43,7 +43,7 @@ Although we encourage you to freely use the material available on this platform,
 
 It's time to get started!
 
-![[Illustrations from the Turing Way book dashes - Zenodo](https://zenodo.org/record/3695300#.Yl20yigzZPY)](images/Welcome.PNG)
+![Illustrations from the Turing Way book dashes - Zenodo](images/welcome.jpg)
 
 
 
