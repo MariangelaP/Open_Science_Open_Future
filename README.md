@@ -53,7 +53,7 @@ It's time to get started!
 - October 2022: upload draft for Genomics workshop
 - September/October 2022: OLS-5 graduation?
 - October 2022: first interview post for Neuroscience workshop?
-- 8 December 2022: lab meeting about OSOF at Alan Turing Institute (roganized by Georgia Aitkinhead)
+- 8 December 2022: lab meeting about OSOF at Alan Turing Institute (organized by Georgia Aitkinhead)
 
 
 
