@@ -38,7 +38,8 @@ Illustration from the Turing Way book dashes
 Although we encourage you to freely use the material available on this platform, we would be grateful if you could drop us a line everytime you do so. Staying in touch will help us evaluate the contribution of OSOF to the OS mission, and make content changes accordingly. If you would like to:
 1. attend an online interactive workshop,
 2. create and share your own subject-specific workshop,
-3. give us suggestions about how to improve OSOF...
+3. give us suggestions about how to improve OSOF
+
 ...then email us at openscienceopenfuture@gmail.com!
 
 It's time to get started!
