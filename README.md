@@ -47,6 +47,16 @@ It's time to get started!
 ![Illustrations from the Turing Way book dashes - Zenodo](images/welcome.jpg)
 
 
+## Next steps:
+- September 2022: upload Neuroscience workshop
+- September 2022: upload template for "OSOF goes to school" workshop. This workshop will change according to the school/cohort it'll be delivered to
+- October 2022: upload draft for Genomics workshop
+- September/October 2022: OLS-5 graduation?
+- October 2022: first interview post for Neuroscience workshop?
+- 8 December 2022: lab meeting about OSOF at Alan Turing Institute (roganized by Georgia Aitkinhead)
+
+
+
 
 
 
